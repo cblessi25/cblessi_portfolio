@@ -1,3 +1,2 @@
-## Dimensions -> 700 x 700,
-### logo -> 270 x 50 ,
-### Average images => 480 x 480,
+### Basic Personal Web using simple HTML , CSS AND JS .
+### Learnt styling skiills (cool cascading ) and JS how we implement it to change the dryness 
